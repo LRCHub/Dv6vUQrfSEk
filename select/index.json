@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "WHEN U LOVED ME",
+  "base_artist": "BANNY BUGS",
+  "createdAt": "2026-01-06T03:09:56.202609Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "When U Loved Me",
+      "artist": "Hether",
+      "has_synced": true,
+      "path": "select/01_When_U_Loved_Me_Hether.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "When U Loved Me (acoustic)",
+      "artist": "Hether",
+      "has_synced": false,
+      "path": "select/02_When_U_Loved_Me_(acoustic)_Hether.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "When U Loved Me",
+      "artist": "Hether",
+      "has_synced": true,
+      "path": "select/03_When_U_Loved_Me_Hether.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WHEN U LOVED ME feat. 森",
+      "artist": "BANNY BUGS",
+      "has_synced": false,
+      "path": "select/pl_01_WHEN_U_LOVED_ME_feat._森_BANNY_BUGS.txt"
+    }
+  ]
+}
